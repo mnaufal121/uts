@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package tugasuts;
 
 /**
  *
  * @author Asus
  */
-public class komputer {
-    public static void main(String[] args) {
-        System.out.println("hallo dunia");
-    }
+public class intel {
+    
 }
