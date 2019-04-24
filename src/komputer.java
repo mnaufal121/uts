@@ -3,19 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tugasuts;
 
 /**
  *
  * @author Asus
  */
-public class TugasUTS {
-
-    /**
-     * @param args the command line arguments
-     */
+public class komputer {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("hallo dunia");
     }
-    
 }
